@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexanderStross
-- 👀 I’m interested in alot
-- 🌱 I’m currently learning rails
+- 👀 Good things in the works!
+- 🌱 Building Building Building
 - 💞️ I’m looking to collaborate on progjects that have meaning.
-- 📫 How to reach me https://strosstock.com
+- 📫 https://linktr.ee/AlexanderStross
 
 <!---
 AlexanderStross/AlexanderStross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
